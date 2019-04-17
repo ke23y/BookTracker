@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.etta.booktracker.ToReadActivity">
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/menu_toread"
+                android:title="@string/to_read"
+                android:icon="@drawable/to_read_icon"
+                android:orderInCategory="100"
+        />
+        <item
+                android:id="@+id/menu_reading"
+                android:title="@string/reading"
+                android:orderInCategory="100"
+                android:icon="@drawable/reading_icon"
+        />
+
+        <item
+                android:id="@+id/menu_finished"
+                android:title="@string/finished"
+                android:orderInCategory="100"
+                android:icon="@drawable/finished_icon"
+        />
+
+        <item
+                android:id="@+id/menu_about"
+                android:title="@string/about"
+                android:orderInCategory="100"
+                android:icon="@drawable/reading_icon"
+        />
+
+        <item
+                android:id="@+id/menu_search"
+                android:title="@string/search_for_books"
+                android:orderInCategory="100"
+                android:icon="@drawable/reading_icon"
+        />
+
+    </group>
+</menu>

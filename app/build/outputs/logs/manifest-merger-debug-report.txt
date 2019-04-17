@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b7637dfea75e9b4f466f3aace5bdaa8e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25725e06b385c4578998900727c806a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Etta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9eed378fb189fc1a4af56d83484b764e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b70e4db94ef55654114d26fbdecb6408/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/27f8731b28d7b10aeaaec796bf4c861d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/06138e22821a3018a3753f9237ff71e3/AndroidManifest.xml:17:1-22:12
+MERGED from [uk.co.samuelwall:material-tap-target-prompt:2.3.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/material-tap-target-prompt-2.3.0.aar/5f929d4c6503cbbc7aa3aa709486c7ea/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a6c3234a19114db0a898fb5f667ba96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7e78d95024517abf073cc1f0c0262fb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ce8b7e7c2b60fbe2a745e5588968b7fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d60ea194c733965cec69aa759e131eb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/019cea39f5d9f8a3c4e7f4e3156dfb57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3e077a60aea83a46e1bc2e8168d93099/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2de511eed5f8b6e4ec2e0d3ce0550a1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0e2ed760b24889cf98d3cc0020876037/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fa6e4e049348ffff2f187c57dbcff02b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a7c8b0b8eaf0b7a62263d275e18bec98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/235ade024a43233bc4907be70d35154f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c6776dccbed149619094f19f9bd7f4d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/14415d8da35c09868134e605b9ba8990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/83db5d7cdd201785a6180a4c485550bd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8dfba8c72c05a685d4b42e0583e8d5a1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/623bb48762f9f4e3150eef8f0af459c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/998492e8d0ef7c3b1666e3ae16789c23/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/d9c8adbead7b83ad1d7d705896ecfe9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/15a2a5f549c94b97fdee66f7add824bc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c23cd911a9b7af604fac30c990606cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da60b515a0947d92d79ba3fb4fe5bbd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/73892667326582b6c463da18b715f8bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b94b8e78d1026a7dfca5cd5370203ed9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9a53578f3696ad888d18f794e094680f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1caf5ce59cb8b314d2cf049d6c65b262/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/54f9cfcb46ea7215a9b504c02bc000df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c3eccc6deafe0692a29b7d114ea9cb27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cd0a52db6f29a56db3bf503d20d227f9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:3:11-49
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:5:5-41:19
+MERGED from [com.android.support:design:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b7637dfea75e9b4f466f3aace5bdaa8e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b7637dfea75e9b4f466f3aace5bdaa8e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Etta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9eed378fb189fc1a4af56d83484b764e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Etta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9eed378fb189fc1a4af56d83484b764e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/83db5d7cdd201785a6180a4c485550bd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/83db5d7cdd201785a6180a4c485550bd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8dfba8c72c05a685d4b42e0583e8d5a1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8dfba8c72c05a685d4b42e0583e8d5a1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/83db5d7cdd201785a6180a4c485550bd/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.etta.booktracker.SplashActivity
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.etta.booktracker.ToReadActivity
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:19:9-23:20
+	android:label
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:21:17-63
+	android:theme
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:22:17-60
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:20:17-47
+activity#com.example.etta.booktracker.ReadingActivity
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:24:9-28:20
+	android:label
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:26:17-63
+	android:theme
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:27:17-60
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:25:17-48
+activity#com.example.etta.booktracker.FinishedActivity
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:29:9-33:20
+	android:label
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:31:17-64
+	android:theme
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:32:17-60
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:30:17-49
+activity#com.example.etta.booktracker.dialogues.DialogueFinished
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:34:19-61
+activity#com.example.etta.booktracker.SearchActivity
+ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:38:17-62
+	android:theme
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:39:17-60
+	android:name
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml:37:17-47
+uses-sdk
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b7637dfea75e9b4f466f3aace5bdaa8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b7637dfea75e9b4f466f3aace5bdaa8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25725e06b385c4578998900727c806a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/25725e06b385c4578998900727c806a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Etta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9eed378fb189fc1a4af56d83484b764e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Etta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9eed378fb189fc1a4af56d83484b764e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b70e4db94ef55654114d26fbdecb6408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b70e4db94ef55654114d26fbdecb6408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/27f8731b28d7b10aeaaec796bf4c861d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/27f8731b28d7b10aeaaec796bf4c861d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/06138e22821a3018a3753f9237ff71e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/06138e22821a3018a3753f9237ff71e3/AndroidManifest.xml:20:5-44
+MERGED from [uk.co.samuelwall:material-tap-target-prompt:2.3.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/material-tap-target-prompt-2.3.0.aar/5f929d4c6503cbbc7aa3aa709486c7ea/AndroidManifest.xml:23:5-25:41
+MERGED from [uk.co.samuelwall:material-tap-target-prompt:2.3.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/material-tap-target-prompt-2.3.0.aar/5f929d4c6503cbbc7aa3aa709486c7ea/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a6c3234a19114db0a898fb5f667ba96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3a6c3234a19114db0a898fb5f667ba96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7e78d95024517abf073cc1f0c0262fb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/7e78d95024517abf073cc1f0c0262fb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ce8b7e7c2b60fbe2a745e5588968b7fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ce8b7e7c2b60fbe2a745e5588968b7fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d60ea194c733965cec69aa759e131eb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/d60ea194c733965cec69aa759e131eb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/019cea39f5d9f8a3c4e7f4e3156dfb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/019cea39f5d9f8a3c4e7f4e3156dfb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3e077a60aea83a46e1bc2e8168d93099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3e077a60aea83a46e1bc2e8168d93099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2de511eed5f8b6e4ec2e0d3ce0550a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2de511eed5f8b6e4ec2e0d3ce0550a1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0e2ed760b24889cf98d3cc0020876037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/0e2ed760b24889cf98d3cc0020876037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fa6e4e049348ffff2f187c57dbcff02b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/fa6e4e049348ffff2f187c57dbcff02b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a7c8b0b8eaf0b7a62263d275e18bec98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a7c8b0b8eaf0b7a62263d275e18bec98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/235ade024a43233bc4907be70d35154f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/235ade024a43233bc4907be70d35154f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c6776dccbed149619094f19f9bd7f4d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c6776dccbed149619094f19f9bd7f4d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/14415d8da35c09868134e605b9ba8990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/14415d8da35c09868134e605b9ba8990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/83db5d7cdd201785a6180a4c485550bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/83db5d7cdd201785a6180a4c485550bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8dfba8c72c05a685d4b42e0583e8d5a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8dfba8c72c05a685d4b42e0583e8d5a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/623bb48762f9f4e3150eef8f0af459c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/623bb48762f9f4e3150eef8f0af459c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/998492e8d0ef7c3b1666e3ae16789c23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/998492e8d0ef7c3b1666e3ae16789c23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/d9c8adbead7b83ad1d7d705896ecfe9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/d9c8adbead7b83ad1d7d705896ecfe9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/15a2a5f549c94b97fdee66f7add824bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/15a2a5f549c94b97fdee66f7add824bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c23cd911a9b7af604fac30c990606cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c23cd911a9b7af604fac30c990606cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da60b515a0947d92d79ba3fb4fe5bbd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/da60b515a0947d92d79ba3fb4fe5bbd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/73892667326582b6c463da18b715f8bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/73892667326582b6c463da18b715f8bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b94b8e78d1026a7dfca5cd5370203ed9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b94b8e78d1026a7dfca5cd5370203ed9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9a53578f3696ad888d18f794e094680f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Etta/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9a53578f3696ad888d18f794e094680f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1caf5ce59cb8b314d2cf049d6c65b262/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1caf5ce59cb8b314d2cf049d6c65b262/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/54f9cfcb46ea7215a9b504c02bc000df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/54f9cfcb46ea7215a9b504c02bc000df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c3eccc6deafe0692a29b7d114ea9cb27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c3eccc6deafe0692a29b7d114ea9cb27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cd0a52db6f29a56db3bf503d20d227f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Etta/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cd0a52db6f29a56db3bf503d20d227f9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Etta/AndroidStudioProjects/BookTracker/app/src/main/AndroidManifest.xml

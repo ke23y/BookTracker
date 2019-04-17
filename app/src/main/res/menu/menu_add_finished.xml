@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".FinishedActivity">
+
+    <item android:id = "@+id/show_finished_state"
+          android:title="@string/your_finished_books"
+          android:orderInCategory="100"
+          app:showAsAction = "always"></item>
+
+    <item android:id = "@+id/action_add_finished"
+          android:title="@string/add_item"
+          android:orderInCategory="100"
+          app:showAsAction = "always"></item>
+
+    <item android:id = "@+id/action_deleteAll_finished"
+          android:title="@string/delete_list"
+          android:orderInCategory="100"
+          app:showAsAction = "always"></item>
+
+</menu>

@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".ReadingActivity">
+
+    <item android:id = "@+id/show_reading_state"
+          android:title="@string/your_reading_books"
+          android:orderInCategory="100"
+          app:showAsAction = "always"></item>
+
+    <item android:id = "@+id/action_add_reading"
+          android:title="@string/add_item"
+          android:orderInCategory="100"
+          app:showAsAction = "always"></item>
+
+    <item android:id = "@+id/action_deleteAll_reading"
+          android:title="@string/delete_list"
+          android:orderInCategory="100"
+          app:showAsAction = "always"></item>
+
+</menu>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              tools:context=".dialogues.DialogueToRead"
+              android:orientation="vertical">
+
+    <TextView android:layout_width="match_parent"
+              android:text="@string/title"
+              android:layout_marginBottom="1dp"
+              android:layout_marginTop="10dp"
+              android:textSize="20dp"
+              android:textAppearance="@style/TextAppearance.AppCompat.Title"
+              android:layout_height="wrap_content"/>
+
+    <EditText
+            android:id="@+id/etTitle_reading"
+            android:hint="@string/book_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    <TextView android:layout_width="match_parent"
+              android:text="@string/authors"
+              android:layout_marginBottom="1dp"
+              android:layout_marginTop="10dp"
+              android:textSize="20dp"
+              android:textAppearance="@style/TextAppearance.AppCompat.Title"
+              android:layout_height="wrap_content"/>
+
+    <EditText
+            android:id="@+id/etAuthor_reading"
+            android:hint="@string/enter_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    <TextView android:layout_width="match_parent"
+              android:text="@string/additional_information"
+              android:layout_marginBottom="1dp"
+              android:layout_marginTop="20dp"
+              android:textSize="20dp"
+              android:textAppearance="@style/TextAppearance.AppCompat.Title"
+              android:layout_height="wrap_content"/>
+
+    <EditText
+            android:id="@+id/etLanguage_reading"
+            android:hint="@string/choose_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    <EditText
+            android:id="@+id/etSubject_reading"
+            android:hint="@string/enter_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    <EditText
+            android:id="@+id/etISBN-13_reading"
+            android:hint="@string/enter_isbn_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    <EditText
+            android:id="@+id/etPage_reading"
+            android:hint="@string/enter_current_page"
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    <TextView android:layout_width="match_parent"
+              android:text="@string/rate_your_love_degree"
+              android:layout_marginTop="20dp"
+              android:textSize="20dp"
+              android:textAppearance="@style/TextAppearance.AppCompat.Title"
+              android:layout_height="wrap_content"/>
+
+    <Spinner
+            android:id="@+id/et_desire_reading"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dropdown"
+            android:background="@android:drawable/btn_dropdown"
+            android:visibility="visible"/>
+
+
+
+
+</LinearLayout>
